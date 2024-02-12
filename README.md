@@ -6,7 +6,7 @@ TypeScript
 
 ### サーバー起動
 ```bash
-npm run dev
+npm run start
 ```
 
 ### URL
